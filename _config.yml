@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: The Invasive Species Project
+email: nickcwilkins@yahoo.com
+description:  We created this project to offer some information about the seemingly native insects, plants, animals etc., that are probably not so native at all.
+              In fact, here are hundreds of Invasive species in the United States, and they do huge amounts of agricultural damage which translates into big economic impacts.
+              Read on to learn a bit about invasive species near you and why you should care about them.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://invasivespeciesproject.github.io" # the base hostname & protocol for your site
+twitter_username: "twitter"
+github_username:  "git"
+
+# Build settings
+markdown: kramdown
