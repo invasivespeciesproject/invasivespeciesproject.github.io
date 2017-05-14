@@ -3,7 +3,7 @@ layout: post
 title:  Brown Marmorated Stink Bug
 #author: Phillip Herndon
 date:   2017-05-12
-categories: Invasive Species
+categories: Invasive_Species
 ---
 Since the 1990s, the brown marmorated stink bug ([BMSB](https://njaes.rutgers.edu/stinkbug/identify.asp)) 
 has been gaining ground in the US as an invasive species. This invasive is suspected of coming into the US 
