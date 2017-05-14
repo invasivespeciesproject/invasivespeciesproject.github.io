@@ -13,7 +13,7 @@ it appears to look similar to native stink bugs within the US.
 
 ![alt text][BMSB_PIC]
 
-The BMSB known to be a voracious eater feeding off many fruit bearing trees, plus it is known to go after soybean and other vegetables. 
+The BMSB is known to be a voracious eater feeding off many fruit bearing trees, plus it is known to go after soybean and other vegetables. 
 The StopBMSB.org site offers a [short general list](http://www.stopbmsb.org/where-is-bmsb/crop-by-crop/) of plants targeted by the bug. 
 A long list by plant name is provided [here](http://www.stopbmsb.org/where-is-bmsb/host-plants/) has 37 plants of agricultural importance to the US.
 
