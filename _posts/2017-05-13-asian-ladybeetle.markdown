@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Asian Ladybeetle
+author: P. Herndon
 date: 2017-05-13
 categories: Invasive_Species
 ---
