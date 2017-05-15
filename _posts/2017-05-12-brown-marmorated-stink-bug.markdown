@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Brown Marmorated Stink Bug
-#author: Phillip Herndon
+author: P. Herndon
 date:   2017-05-12
 categories: Invasive_Species
 ---
