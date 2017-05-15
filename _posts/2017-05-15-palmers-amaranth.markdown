@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Palmer's Amaranth
-#author: P. Herndon
+author: P. Herndon
 date: 2017-05-15
 categories: Invasive_Species
 ---
@@ -11,8 +11,8 @@ categories: Invasive_Species
 The [Palmer’s amaranth](https://plants.usda.gov/core/profile?symbol=AMPA) (Amaranthus palmeri) has 
 many names - carelessweed, dioecious amaranth, and Palmer's pigweed. This invasive plant isn’t all 
 that far removed from its [native territory](https://gobotany.newenglandwild.org/species/amaranthus/palmeri/) 
-of southwest United States (California, New Mexico, and Texas) and Mexico. Parts [(leaves, stems, and seeds)]
-(http://www.pfaf.org/User/Plant.aspx?LatinName=Amaranthus+palmeri) of this plant are [edible](http://naeb.brit.org/uses/search/?string=Amaranthus+palmeri) 
+of southwest United States (California, New Mexico, and Texas) and Mexico. Parts [(leaves, stems, and seeds)](http://www.pfaf.org/User/Plant.aspx?LatinName=Amaranthus+palmeri) 
+of this plant are [edible](http://naeb.brit.org/uses/search/?string=Amaranthus+palmeri) 
 by human, and they are considered a healthy, nutritious staple as long as one doesn’t have kidney issues with 
 [oxylates](https://www.ncbi.nlm.nih.gov/pubmed/17511467). Although the roots of the plant are known to have 
 “excessive” concentrations of nitrates which is [toxic](http://poisonousplants.ansci.cornell.edu/php/plants.php?action=indiv&byname=scientific&keynum=12) 
