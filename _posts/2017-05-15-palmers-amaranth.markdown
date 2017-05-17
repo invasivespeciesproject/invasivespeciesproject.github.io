@@ -6,8 +6,7 @@ date: 2017-05-15
 categories: Invasive_Species
 ---
 
-![alt text][AMARANTH_PIC]  
-
+<img style="float: right; margin: 6px 10px 0px 0px;" src="http://www.pfaf.org/Admin/PlantImages/AmaranthusPalmeri.jpg" caption="The Palmer's Amaranth"/>
 The [Palmer’s amaranth](https://plants.usda.gov/core/profile?symbol=AMPA) (Amaranthus palmeri) has 
 many names - carelessweed, dioecious amaranth, and Palmer's pigweed. This invasive plant isn’t all 
 that far removed from its [native territory](https://gobotany.newenglandwild.org/species/amaranthus/palmeri/) 
@@ -36,5 +35,3 @@ the plant becoming resistant to various herbicides. Physical methods are more ef
 difficult to implement. Cutting the stalk 3cm from the ground to ground level produced a 64% to 95% 
 [mortality rate](http://onlinelibrary.wiley.com/doi/10.1111/aab.12129/abstract) in the plant, and 
 such activity of cutting reduces the viability of the plant to reach maturity to produce seeds.
-
-[AMARANTH_PIC]: http://www.pfaf.org/Admin/PlantImages/AmaranthusPalmeri.jpg

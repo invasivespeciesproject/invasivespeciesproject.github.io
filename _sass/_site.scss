@@ -65,13 +65,7 @@
     .top{
         
         text-align: center;
-        padding: $spacing-unit * 4 $spacing-unit $spacing-unit;       
-        
-        a.email{
-            font-size: 2rem;
-            text-decoration: none;
-            color: $brand-color;
-        }
+        padding: $spacing-unit * 4 $spacing-unit $spacing-unit;
 
         p.description{            
             font-size: 2rem;
@@ -125,16 +119,29 @@
 }
 
 .post{
-    .card-content{
-            padding: 80px 20px;
-                p {
-                  margin: 1.1em 0;
-            }
+  .card-content{
+    padding: 80px 20px;
+    .post-content {
+      p { margin: 1.1em 0; }
     }
-
-
+  }
 }
 
+.img-wrapper {
+  img {
+    border-radius: 6px 6px 0 0;
+    max-width: inherit;
+  }
+  
+  .caption {
+    text-align: center;
+    border-radius: 0 0 6px 6px;
+    background-color: rgba(0, 0, 0, .15);
+    padding: 2px 4px 4px 4px;
+    margin-top: -6px;
+    font-size: 10px
+  }
+}
 .footer-heading{
     display:block;
     text-align: center;

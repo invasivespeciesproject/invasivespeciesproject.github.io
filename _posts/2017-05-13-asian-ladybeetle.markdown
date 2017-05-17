@@ -6,14 +6,13 @@ date: 2017-05-13
 categories: Invasive_Species
 ---
 
+<img style="float: right; margin: 6px 10px 0px 0px; max-width: 240px" src="https://pestid.msu.edu/wp-content/uploads/2014/12/MulticoloredAsianLadyBeetlesOnAPenny.jpg" caption="Asian Ladybeetle's on a penny"/>
 The [Asian Ladybeetle](http://issg.org/database/species/ecology.asp?si=668) 
 (Harmonia axyridis, or h.axyridis), known as Harlequin lady beetle and 
 Halloween ladybeetle, appears very much like the ‘lady bug’ 
 each of us are familiar with, except they are slightly larger. They are 
 also known as the multicolored Asian lady beetle as the color varies in 
 the red-orange to yellow-orange with no spots to about 20. 
-
-![alt text][LBEETLE_PIC]
 
 The Asian Ladybeetle is interesting as an invasive species because they are 
 both pest to some agriculture and benefit to others. 

@@ -11,13 +11,13 @@ from China via [cargo containers](https://www.nytimes.com/2015/06/16/science/wha
 A shield shaped bug about the size of a fingernail. Mostly brown, with off-white, gray, and black features, 
 it appears to look similar to native stink bugs within the US.
 
-![alt text][BMSB_PIC]
+![][BMSB_PIC]
 
 The BMSB is known to be a voracious eater feeding off many fruit bearing trees, plus it is known to go after soybean and other vegetables. 
 The StopBMSB.org site offers a [short general list](http://www.stopbmsb.org/where-is-bmsb/crop-by-crop/) of plants targeted by the bug. 
 A long list by plant name is provided [here](http://www.stopbmsb.org/where-is-bmsb/host-plants/) has 37 plants of agricultural importance to the US.
 
-![alt text][CROP_INFOGRAPH]
+![][CROP_INFOGRAPH]
 
 The economic value of agriculture which can be affected by the BMSB is estimated around [$23 billion](http://www.stopbmsb.org/about-us/goals-and-funding/). 
 A loss of $37 million to mid-Atlantic apple industry. Insecticides are reported as having a “[short-lived effect](https://njaes.rutgers.edu/stinkbug/control.asp)” 
