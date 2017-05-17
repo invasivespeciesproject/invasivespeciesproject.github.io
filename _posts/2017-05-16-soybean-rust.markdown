@@ -6,6 +6,7 @@ date: 2017-05-16
 categories: Invasive_Species
 ---
 
+<img style="float: right; margin: 6px 10px 0px 0px;" src="https://www.invasivespeciesinfo.gov/images/species/soybean-rust-1265016.jpg" caption="Soybean plant afflicted by Soybean Rust"/>
 Soybean rust is a type fungus which we know in [two difficult to distinguish forms](https://nt.ars-grin.gov/taxadescriptions/factsheets/index.cfm?thisapp=Phakopsorapachyrhizi) of 
 Phakopsorapachyrhizi and Phakopsora meibomiae. The P.meibomiae (or New World soybean rust) strain is less virulent than p.pachyrhizi (also known as Australasian soybean rust), 
 and it is found typically only in the western hemisphere, while P.pachyrhizi has been noted now in the western hemisphere, it originates from Asia. Either way these two fungi 
