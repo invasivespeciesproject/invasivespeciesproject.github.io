@@ -8,21 +8,20 @@ function SetupImageCaptions()
 
   if(!images.length) return;
 
-
-  images.wrap('<div class="img-wrapper"></div>');
-
   for(var i = 0; i < images.length; i++) {
     var image = images.eq(i);
     var caption = image.attr('caption') || image.attr('');
     var alt = image.attr('alt');
 
-
     if(!caption && !alt) continue;
     if(!caption && alt) caption = alt;
+    
+    image.wrap('<div class="img-wrapper"></div>');
 
     var parent = image.parent();
     var imageStyle = image.attr('style');
     var width = image.width();
+
 
     //put the given style for the image onto the new parent
     image.attr('style', '');   
