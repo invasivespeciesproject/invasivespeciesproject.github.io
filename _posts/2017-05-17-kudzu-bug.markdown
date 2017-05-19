@@ -14,8 +14,8 @@ a [species of stink bug](https://www.pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu
 However, [Telling them apart](https://www.kudzubug.org/identification/) from other species of stink bug is simple. They are anywhere from 3.5mm to 6mm and sport a globular 
 olive-green colored shield.
 
-First sightings of the Kudzu Bug were recorded in 2009 in northern Georgia. Since then, it has begun to spread outward, spreading to the surrounding states and most recently 
-reaching parts of Maryland, Florida and Louisiana.  
+According to [KudzuBug.org](https://www.kudzubug.org/), first sightings of the Kudzu Bug were recorded in 2009 in northern Georgia. Since then, it has begun to spread outward, 
+spreading to the surrounding states and most recently reaching parts of Maryland, Florida and Louisiana. 
 
 <iframe src="https://maps.eddmaps.org/countycustom/index.cfm?map=5&legend=right" style="margin: 20px 0;" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" height="500" width="940" scrolling="no" seamless>.</iframe>
 
